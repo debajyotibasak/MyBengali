@@ -1,7 +1,7 @@
 # My Bengali
 My Bengali is a bengali vocabulary application. 
 
-**Author: [Debajyoti Basak](https://www.linkedin.com/in/debajyoti-basak "LinkedIn Profile") (d.basak.db@gmail.com)**
+**Author: [Debajyoti Basak](https://www.linkedin.com/in/debajyoti-basak-698981119 "LinkedIn Profile") (d.basak.db@gmail.com)**
 
 _It is done with the help of Udacity's "Multi-screen Application" development tutorials._
 
